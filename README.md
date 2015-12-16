@@ -18,6 +18,7 @@ jQuery Validation v1.14.0 http://jqueryvalidation.org/
 Datatables v1.10.7 https://www.datatables.net/
 
 Database Example (mySQL) :
+
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
